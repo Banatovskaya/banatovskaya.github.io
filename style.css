@@ -106,6 +106,7 @@ h2 {
 .links_name {
     display: inline-block;
     width: 30%;
+    padding-right: 10px;
 }
 
 .links_text {
@@ -127,6 +128,7 @@ h2 {
         width: 540px;
         font-size: 14px;
     }
+    padding-right: 10px;
 
     .data {
         margin-left: 20px;
